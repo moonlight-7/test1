@@ -1,0 +1,6 @@
+{
+  "name": "RantauSmart",
+  "description": "Aplikasi pencatat keuangan mahasiswa rantau dengan fitur AI chat cepat, ringkasan transaksi, dan pengingat batas anggaran harian manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
